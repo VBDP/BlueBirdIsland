@@ -1,0 +1,153 @@
+| Nº | Símbolo | Nombre       | Representa     | Simboliza                                                            |
+| -- | ------- | ------------ | -------------- | -------------------------------------------------------------------- |
+| 1  | ᚠ       | **FEHU**     | Ganado         | Riqueza, Abundancia, Éxito, Seguridad, Fertilidad                    |
+| 2  | ᚢ       | **URUZ**     | Toro           | Fuerza, Tenacidad, Coraje, Potencial indómito, Libertad              |
+| 3  | ᚦ       | **THURISAZ** | Espina         | Reacción, Defensa, Conflicto, Catarsis, Regeneración                 |
+| 4  | ᚨ       | **ANSUZ**    | Estuario       | La Boca, Comunicación, Comprensión, Inspiración                      |
+| 5  | ᚱ       | **RAIDHO**   | Carro          | Viaje, Ritmo, Espontaneidad, Evolución, Decisiones                   |
+| 6  | ᚲ       | **KENNAZ**   | Antorcha       | Visión, Creatividad, Inspiración, Mejora, Vitalidad                  |
+| 7  | ᚷ       | **GEBO**     | Regalo         | Equilibrio, Intercambio, Asociación, Generosidad, Relaciones         |
+| 8  | ᚹ       | **WUNJO**    | Alegría        | Placer, Comodidad, Armonía, Prosperidad, Recompensa, Éxito           |
+| 9  | ᚺ / ᚻ   | **HAGALAZ**  | Granizo        | Naturaleza, Ira, Ser puesto a prueba, Superar obstáculos             |
+| 10 | ᚾ       | **NAUTHIZ**  | Necesidad      | Restricción, Conflicto, Voluntad, Resistencia, Autosuficiencia       |
+| 11 | ᛁ       | **ISA**      | Hielo          | Claridad, Estasis, Desafíos, Introspección, Observar y esperar       |
+| 12 | ᛃ       | **JERA**     | Año            | Ciclos, Culminación, Cambios, Cosecha, Recompensas                   |
+| 13 | ᛇ       | **EIHWAZ**   | Tejo           | Equilibrio, Iluminación, Muerte, El Árbol del Mundo                  |
+| 14 | ᛈ       | **PERTHRO**  | Cáliz de dados | Destino, Azar, Misterio, Suerte, Secretos                            |
+| 15 | ᛉ       | **ALGIZ**    | Alce           | Protección, Defensa, Instinto, Esfuerzo colectivo, Guardianía        |
+| 16 | ᛊ / ᛋ   | **SOWILO**   | Sol            | Salud, Honor, Recursos, Victoria, Integridad, Purificación           |
+| 17 | ᛏ       | **TIWAZ**    | Dios Tyr       | Masculinidad, Justicia, Liderazgo, Lógica, Batalla                   |
+| 18 | ᛒ       | **BERKANA**  | Abedul         | Feminidad, Fertilidad, Sanación, Regeneración, Nacimiento            |
+| 19 | ᛖ       | **EHWAZ**    | Caballo        | Transporte, Movimiento, Progreso, Confianza, Cambio                  |
+| 20 | ᛗ       | **MANNAZ**   | Humanidad      | Individualidad, Amistad, Sociedad, Cooperación, Ayuda                |
+| 21 | ᛚ       | **LAGUZ**    | Agua           | Intuición, Emociones, Flujo, Renovación, Sueños, Esperanzas y miedos |
+| 22 | ᛝ / ᛜ   | **INGUZ**    | Semilla        | Metas, Crecimiento, Cambio, Sentido común, El Hogar                  |
+| 23 | ᛟ       | **OTHALA**   | Herencia       | Ancestría, Posesiones, Patrimonio, Experiencia, Valor                |
+| 24 | ᛞ       | **DAGAZ**    | Amanecer       | Despertar, Certeza, Iluminación, Culminación, Esperanza              |
+
+Descripciones:
+📜 Guion espiritual de las 24 Runas
+1) ᚠ FEHU – Ganado
+
+"Fehu es la runa de la abundancia. Nos recuerda que la verdadera riqueza no es solo lo material, sino aquello que alimenta nuestra vida y nos da seguridad. Representa el inicio del viaje: prosperidad, fertilidad y éxito."
+
+2) ᚢ URUZ – Toro
+
+"Uruz es la fuerza de lo indómito, el poder del toro salvaje. Nos enseña que dentro de nosotros existe un potencial enorme esperando a ser liberado. Simboliza coraje, tenacidad y libertad."
+
+3) ᚦ THURISAZ – Espina
+
+"Thurisaz es la espina que protege, la fuerza del gigante. Habla de defensa, de reacción ante la adversidad y de catarsis. A veces el conflicto es necesario para regenerarnos."
+
+4) ᚨ ANSUZ – Estuario
+
+"Ansuz es la voz, el soplo divino. Es comunicación, inspiración y entendimiento. Representa las palabras que iluminan y nos conectan con lo sagrado."
+
+5) ᚱ RAIDHO – Carro
+
+"Raidho es el viaje y el movimiento. Es la rueda del destino que nos impulsa hacia la evolución. Habla de caminos, decisiones y del ritmo de la vida."
+
+6) ᚲ KENNAZ – Antorcha
+
+"Kenaz es la antorcha que ilumina en la oscuridad. Es creatividad, visión e inspiración. Representa la chispa vital que abre la mente y mejora nuestro camino."
+
+7) ᚷ GEBO – Regalo
+
+"Gebo es el don del dar y recibir. Nos recuerda que toda relación es un intercambio sagrado: amistad, amor, generosidad y equilibrio entre dos almas."
+
+8) ᚹ WUNJO – Alegría
+
+"Wunjo es la felicidad compartida, la paz interior y la prosperidad. Es la armonía que llega tras superar pruebas, la recompensa del corazón."
+
+9) ᚺ HAGALAZ – Granizo
+
+"Hagalaz es la tormenta, el granizo que golpea pero también limpia. Representa pruebas inevitables, la fuerza de la naturaleza y el aprendizaje que surge de superar los obstáculos."
+
+10) ᚾ NAUTHIZ – Necesidad
+
+"Nauthiz es la necesidad, la restricción que forja carácter. Nos enseña resistencia, voluntad y autosuficiencia. La carencia es maestra de fortaleza."
+
+11) ᛁ ISA – Hielo
+
+"Isa es el hielo, la quietud y la espera. Nos invita a la introspección y a la paciencia. La claridad surge cuando el tiempo se congela y observamos en silencio."
+
+12) ᛃ JERA – Año
+
+"Jera es la rueda del año, el ciclo eterno de siembra y cosecha. Nos recuerda que todo tiene su tiempo, y que el trabajo constante trae sus recompensas."
+
+13) ᛇ EIHWAZ – Tejo
+
+"Eihwaz es el árbol sagrado, el Yggdrasil. Representa vida y muerte, equilibrio y transformación. Nos conecta con el conocimiento profundo y eterno."
+
+14) ᛈ PERTHRO – Cáliz de dados
+
+"Perthro es el misterio, el destino que no controlamos. Es azar y secreto, las cartas ocultas de la vida que revelan lo inesperado."
+
+15) ᛉ ALGIZ – Alce
+
+"Algiz es la runa de la protección. El instinto del guerrero y el guardián del clan. Representa defensa, intuición y conexión con las fuerzas divinas."
+
+16) ᛊ SOWILO – Sol
+
+"Sowilo es el sol que ilumina todo. Simboliza victoria, salud, plenitud y purificación. Es la energía vital que guía hacia la totalidad."
+
+17) ᛏ TIWAZ – Dios Tyr
+
+"Tiwaz es la justicia del dios Tyr. Es coraje, liderazgo y sacrificio por un bien mayor. Representa la disciplina y la fuerza del guerrero espiritual."
+
+18) ᛒ BERKANA – Abedul
+
+"Berkana es la madre, la fertilidad y el renacer. Habla de sanación, crecimiento y el ciclo eterno de la vida que florece de nuevo."
+
+19) ᛖ EHWAZ – Caballo
+
+"Ehwaz es el movimiento y la confianza. Representa el viaje, la cooperación y el progreso conjunto. Nos recuerda que el cambio es la esencia del avance."
+
+20) ᛗ MANNAZ – Humanidad
+
+"Mannaz es el ser humano en comunidad. Simboliza cooperación, amistad y ayuda mutua. Nos recuerda que la verdadera fuerza nace de la unión."
+
+21) ᛚ LAGUZ – Agua
+
+"Laguz es el agua profunda, las emociones y los sueños. Nos habla de intuición, renovación y de fluir con el misterio de la vida."
+
+22) ᛝ INGUZ – Semilla
+
+"Ingwaz es la semilla fértil que guarda todo potencial. Simboliza metas, crecimiento y la fuerza del hogar. Cada inicio nace de un pequeño germen."
+
+23) ᛟ OTHALA – Herencia
+
+"Othala es la herencia de los ancestros. Representa las raíces, el legado y el valor de lo aprendido a lo largo de generaciones."
+
+24) ᛞ DAGAZ – Amanecer
+
+"Dagaz es la luz del nuevo día. Es el despertar espiritual, la certeza y la esperanza. Simboliza la transformación que surge tras la oscuridad."
+
+Colores:
+| Runa     | Símbolo | Color sugerido                     | Razón / Energía                                |
+| -------- | ------- | ---------------------------------- | ---------------------------------------------- |
+| FEHU     | ᚠ       | Dorado / Amarillo                  | Riqueza, abundancia, prosperidad               |
+| URUZ     | ᚢ       | Rojo oscuro                        | Fuerza, coraje, vitalidad, energía salvaje     |
+| THURISAZ | ᚦ       | Púrpura / Morado                   | Defensa, misterio, transformación              |
+| ANSUZ    | ᚨ       | Azul claro                         | Comunicación, inspiración, entendimiento       |
+| RAIDHO   | ᚱ       | Naranja                            | Viaje, movimiento, ritmo, evolución            |
+| KENNAZ   | ᚲ       | Amarillo brillante                 | Creatividad, visión, iluminación               |
+| GEBO     | ᚷ       | Rosa / Magenta                     | Relaciones, generosidad, equilibrio            |
+| WUNJO    | ᚹ       | Verde brillante                    | Alegría, armonía, prosperidad, bienestar       |
+| HAGALAZ  | ᚺ       | Gris / Blanco                      | Pruebas, obstáculos, fuerza de la naturaleza   |
+| NAUTHIZ  | ᚾ       | Marrón oscuro / Terracota          | Restricción, resistencia, autosuficiencia      |
+| ISA      | ᛁ       | Azul hielo                         | Claridad, introspección, quietud               |
+| JERA     | ᛃ       | Verde oliva / Dorado suave         | Ciclos, cosecha, recompensa del esfuerzo       |
+| EIHWAZ   | ᛇ       | Verde oscuro / Negro               | Transformación, equilibrio, sabiduría profunda |
+| PERTHRO  | ᛈ       | Violeta                            | Misterio, destino, azar, secretos              |
+| ALGIZ    | ᛉ       | Blanco / Celeste                   | Protección, instinto, guardianía               |
+| SOWILO   | ᛊ       | Amarillo dorado / Naranja solar    | Sol, victoria, energía, purificación           |
+| TIWAZ    | ᛏ       | Azul oscuro / Plateado             | Justicia, liderazgo, fuerza y disciplina       |
+| BERKANA  | ᛒ       | Verde claro                        | Fertilidad, regeneración, sanación             |
+| EHWAZ    | ᛖ       | Marrón claro / Beige               | Movimiento, progreso, confianza                |
+| MANNAZ   | ᛗ       | Turquesa                           | Sociedad, cooperación, humanidad               |
+| LAGUZ    | ᛚ       | Azul profundo / Cian               | Agua, emociones, intuición, flujo              |
+| INGUZ    | ᛝ       | Verde esmeralda                    | Metas, crecimiento, potencial, hogar           |
+| OTHALA   | ᛟ       | Violeta oscuro / Marrón            | Herencia, raíces, legado                       |
+| DAGAZ    | ᛞ       | Amarillo dorado / Blanco brillante | Amanecer, esperanza, despertar espiritual      |
+

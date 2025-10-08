@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Zeewix_VRCExpressionsMenu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: be0b833a0623844419abeffa06ad716f, type: 2}
+  controls:
+  - name: 'Follower made by Natch deux
+
+      Available to buy on Gumroad and Jinxxy
+
+      https://natchdeux.gumroad.com'
+    icon: {fileID: 2800000, guid: fc47831dc5439b841a5daeea1109c31d, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1838dcfef7f3cb345abfd2230310d150, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\nRight fingerpoint \n= follow finger"
+    icon: {fileID: 2800000, guid: fc47831dc5439b841a5daeea1109c31d, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1838dcfef7f3cb345abfd2230310d150, type: 2}
+    subParameters:
+    - name: Follower Size
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: fc47831dc5439b841a5daeea1109c31d, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1838dcfef7f3cb345abfd2230310d150, type: 2}
+    subParameters: []
+    labels: []
+  - name: 'Auto
+
+      follow finger'
+    icon: {fileID: 2800000, guid: 0d1d962fb354f6549a10f966bbc1c07a, type: 3}
+    type: 102
+    parameter:
+      name: Follow
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1838dcfef7f3cb345abfd2230310d150, type: 2}
+    subParameters: []
+    labels: []
+  - name: Zeewix size
+    icon: {fileID: 2800000, guid: c326494c5f4450e4e80a1a5c55c207b0, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1838dcfef7f3cb345abfd2230310d150, type: 2}
+    subParameters:
+    - name: Follower Size
+    labels: []
+  - name: "Turn off \nfly around animation"
+    icon: {fileID: 2800000, guid: b8530fbee7ddc7a4aaaac253ea5c3ed8, type: 3}
+    type: 102
+    parameter:
+      name: Orbit toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1838dcfef7f3cb345abfd2230310d150, type: 2}
+    subParameters: []
+    labels: []
